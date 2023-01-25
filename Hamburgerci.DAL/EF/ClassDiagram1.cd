@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hamburgerci.DAL.EF.Concrete.KullaniciDAL">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>EF\Concrete\KullaniciDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Hamburgerci.DAL.EF.Concrete.RepositoryBase&lt;T&gt;">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAQAQAAAAAAEJAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EF\Concrete\RepositoryBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Hamburgerci.DAL.EF.Abstract.IKullaniciDAL">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>EF\Abstract\IKullaniciDAL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Hamburgerci.DAL.EF.Abstract.IRepositoryBase&lt;T&gt;">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAQAAAAAAEJAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EF\Abstract\IRepositoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
